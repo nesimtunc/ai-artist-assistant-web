@@ -19,10 +19,7 @@ To set up the project on your local machine, follow these steps:
 
 1. Clone the repository: `git clone https://github.com/yourusername/ai-artist-assistant-web.git`
 2. Change the current directory to the project directory: `cd ai-artist-assistant-web`
-3. Install the required dependencies: `npm install`
-4. Set up your environment variables, such as API keys or other configurations, in a `.env` file or as system environment variables.
-5. Run the development server: `npm run dev`
-6. Open your browser and navigate to `http://localhost:3000` to view the web application.
+3. Setup development environment
 
 ## Contributing
 
