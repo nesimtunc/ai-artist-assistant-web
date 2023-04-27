@@ -4,6 +4,8 @@ AI Artist Assistant Web is an open-source project aimed at building a community-
 
 This repository contains the frontend and backend code for the community-driven platform, where users can submit content, vote on submissions, flag content, and donate. It includes the web interface built with Node.js, Express, TypeScript, and PostgreSQL, as well as the API for interacting with the AI models in the [ai-artist-assistant repository](https://github.com/nesimtunc/ai-artist-assistant).
 
+Current Artist: [Ahmet Kaya](https://en.wikipedia.org/wiki/Ahmet_Kaya)
+
 ## Features
 
 - User-friendly interface: A modern and responsive web interface for users to interact with the platform.
